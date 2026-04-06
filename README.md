@@ -1,14 +1,14 @@
 <h1 align="center">Hi there, I'm Haifeng Luo 👋</h1>
 
 <h3 align="center">
-  CFD Researcher | Digital Twin | OpenFOAM & Python
+  CFD | Digital Twin | OpenFOAM | OrcaFlex | C++ & Python
 </h3>
 
 <br/>
 
-> **"Bridging the gap between physical fluid dynamics and data-driven digital spaces."**
 
-###introduction
+
+
 
 ### 🔬 Core Focus
 - **Computational Fluid Dynamics:** 

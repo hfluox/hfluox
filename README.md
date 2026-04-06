@@ -8,12 +8,11 @@
 
 > **"Bridging the gap between physical fluid dynamics and data-driven digital spaces."**
 
-I am a computational mechanics researcher focusing on Physics-Informed Machine Learning, Reduced Order Modeling (ROM), and advanced CFD simulations. I build tools and pipelines that make complex fluid data computable and interactive.
+###introduction
 
 ### 🔬 Core Focus
 - **Computational Fluid Dynamics:** 
 - **Digital Twin & AI:** 
-- **Infrastructure:** 
 
 ### 🛠️ Tech Stack
 <p align="left">

@@ -33,7 +33,7 @@ I am a computational mechanics researcher focusing on Physics-Informed Machine L
     <img alt="Email (Academic)" src="https://img.shields.io/badge/Academic_Email-h.f.luo@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" />
   </a>
   <a href="https://orcid.org/0009-0009-1040-4993" target="_blank">
-    <img alt="ORCID" src="https://img.shields.io/badge/ORCID-0000--xxxx--xxxx--xxxx-A6CE39?style=flat-square&logo=orcid&logoColor=white" />
+    <img alt="ORCID" src="https://img.shields.io/badge/ORCID-0009--0009--1040--4993-A6CE39?style=flat-square&logo=orcid&logoColor=white" />
   </a>
 </p>
 

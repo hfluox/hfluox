@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Haifeng Luo 👋</h1>
+<h1 align="center">Haifeng Luo 👋</h1>
 
 <h3 align="center">
   CFD | Digital Twin | OpenFOAM | OrcaFlex | C++ & Python
@@ -7,23 +7,28 @@
 <br/>
 
 
+### 🔬 Focus
+- **CFD & Fliud Mechanics** 
+- **AI-Driven Fluid Algorithms** 
+- **Digital Twin Architecture** 
 
 
-
-### 🔬 Core Focus
-- **Computational Fluid Dynamics:** 
-- **Digital Twin & AI:** 
-
-### 🛠️ Tech Stack
+### 🛠️ Tech
 <p align="left">
+  <!-- Simulation & Engineering -->
   <img src="https://img.shields.io/badge/OpenFOAM-222222?style=for-the-badge&logo=OpenFOAM&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OrcaFlex-005C8A?style=for-the-badge&logo=anchor&logoColor=white" />
+  <!-- Programming & AI -->
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <!-- Infrastructure -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />
 </p>
 
-### 📫 Let's Connect
+
+### 📫 Commuication
 <p align="left">
   <a href="mailto:hfluox@gmail.com">
     <img alt="Email (Dev)" src="https://img.shields.io/badge/Dev_Email-hfluox@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />

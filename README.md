@@ -37,7 +37,7 @@
     <img alt="Dev Email" src="https://img.shields.io/badge/Dev-hfluox@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="mailto:h.f.luo@outlook.com">
-    <img alt="Academic Email" src="https://img.shields.io/badge/Academic-h.f.luo@outlook.com-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img alt="Academic Email" src="https://img.shields.io/badge/Academic-h.f.luo@outlook.com-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&v=999" />
   </a>
   <br/>
   <!-- Row 2: Academic Identifiers -->

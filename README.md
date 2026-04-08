@@ -8,7 +8,7 @@
 
 
 ### 🔬 Research Focus
-- **High-Fidelity Computational Fluid Mechanics** 
+- **Computational Fluid Mechanics** 
 - **Coupled Offshore Dynamics** 
 - **Scientific Machine Learning** 
 - **Digital Twin Architecture** 
@@ -37,12 +37,12 @@
     <img alt="Dev Email" src="https://img.shields.io/badge/Dev-hfluox@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="mailto:h.f.luo@outlook.com">
-    <img alt="Academic Email" src="https://img.shields.io/badge/Academic-h.f.luo@outlook.com-0078D4?style=for-the-badge&logo=Microsoft_Outlook&logoColor=white&v=2" />
+    <img alt="Academic Email" src="https://img.shields.io/badge/Academic-h.f.luo@outlook.com-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   </a>
   <br/>
   <!-- Row 2: Academic Identifiers -->
   <a href="https://scholar.google.com/" target="_blank">
-    <img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white&v=2" />
+    <img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
   </a>
   <a href="https://orcid.org/0009-0009-1040-4993" target="_blank">
     <img alt="ORCID" src="https://img.shields.io/badge/ID-0009--0009--1040--4993-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />

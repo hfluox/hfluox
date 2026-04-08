@@ -1,14 +1,14 @@
 <h1 align="center">Haifeng Luo 👋</h1>
 
 <h3 align="center">
-  CFD | Digital Twin | OpenFOAM | OrcaFlex | C++ & Python
+  CFD | Digital Twin | OpenFOAM | STAR-CCM+ | OrcaFlex | C++ & Python
 </h3>
 
 <br/>
 
 
 ### 🔬 Focus
-- **CFD & Fliud Mechanics** 
+- **CFD & Fluid Mechanics** 
 - **AI-Driven Fluid Algorithms** 
 - **Digital Twin Architecture** 
 

@@ -17,9 +17,9 @@
 ### 🛠️ Tech Stack
 <table border="0">
   <tr>
-    <td><img src="https://img.shields.io/badge/CFD-OpenFOAM-222222?style=for-the-badge&logo=OpenFOAM&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/CFD-OpenFOAM-222222?style=for-the-badge&logo=apacheairflow&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/CFD-STAR--CCM%2B-009999?style=for-the-badge&logo=siemens&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Offshore-OrcaFlex-005C8A?style=for-the-badge&logo=anchor&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Offshore-OrcaFlex-005C8A?style=for-the-badge&logo=digitalocean&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/SciML-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></td>
   </tr>
   <tr>
@@ -41,7 +41,7 @@
     </td>
     <td>
       <a href="mailto:h.f.luo@outlook.com">
-        <img alt="Academic Email" src="https://img.shields.io/badge/Academic-h.f.luo@outlook.com-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+        <img alt="Academic Email" src="https://img.shields.io/badge/Academic-h.f.luo@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
       </a>
     </td>
   </tr>
@@ -58,6 +58,5 @@
     </td>
   </tr>
 </table>
-
 
 <br/>

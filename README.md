@@ -46,9 +46,9 @@
     </td>
   </tr>
   <tr>
-    <td>
-      <a href="https://scholar.google.com/" target="_blank">
-        <img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
+   <td>
+      <a href="mailto:h.f.luo@outlook.com">
+        <img alt="Academic Email" src="https://img.shields.io/badge/Academic-h.f.luo@outlook.com-0078D4?style=for-the-badge&logo=academia&logoColor=white" />
       </a>
     </td>
     <td>

@@ -7,28 +7,30 @@
 <br/>
 
 
-### 🔬 Focus
-- **CFD & Fluid Mechanics** 
-- **AI-Driven Fluid Algorithms** 
+### 🔬 Research Focus
+- **High-Fidelity Computational Hydrodynamics** 
+- **Coupled Offshore Dynamics** 
+- **Scientific Machine Learning (SciML)** 
 - **Digital Twin Architecture** 
 
-
-### 🛠️ Tech
+### 🛠️ Tech Stack
 <p align="left">
-  <!-- Simulation & Engineering -->
+  <!-- Simulation & Hydrodynamics -->
   <img src="https://img.shields.io/badge/OpenFOAM-222222?style=for-the-badge&logo=OpenFOAM&logoColor=white" />
+  <img src="https://img.shields.io/badge/STAR--CCM%2B-009999?style=for-the-badge&logo=siemens&logoColor=white" />
   <img src="https://img.shields.io/badge/OrcaFlex-005C8A?style=for-the-badge&logo=anchor&logoColor=white" />
-  <!-- Programming & AI -->
+  <br/>
+  <!-- Scientific Computing & AI -->
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <br/>
   <!-- Infrastructure -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />
 </p>
 
-
-### 📫 Commuication
+### 📫 Communication
 <p align="left">
   <a href="mailto:hfluox@gmail.com">
     <img alt="Email (Dev)" src="https://img.shields.io/badge/Dev_Email-hfluox@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />

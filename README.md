@@ -44,18 +44,6 @@
       </a>
     </td>
   </tr>
-  <tr>
-   <td>
-      <a href="https://scholar.google.com/" target="_blank">
-        <img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
-      </a>
-    </td>
-    <td>
-      <a href="https://orcid.org/0009-0009-1040-4993" target="_blank">
-        <img alt="ORCID" src="https://img.shields.io/badge/ID-0009--0009--1040--4993-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
-      </a>
-    </td>
-  </tr>
 </table>
 
 <br/>

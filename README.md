@@ -1,7 +1,7 @@
 <h1 align="center">Haifeng Luo 👋</h1>
 
 <h3 align="center">
-  CFD | Digital Twin | OpenFOAM | STAR-CCM+ | OrcaFlex | C++ & Python
+  CFD | Digital Twin | OpenFOAM | OrcaFlex | C++ & Python
 </h3>
 
 <br/>
@@ -18,7 +18,6 @@
 <table border="0">
   <tr>
     <td><img src="https://img.shields.io/badge/CFD-OpenFOAM-222222?style=for-the-badge&logo=apacheairflow&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/CFD-STAR--CCM%2B-009999?style=for-the-badge&logo=siemens&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/Offshore-OrcaFlex-005C8A?style=for-the-badge&logo=digitalocean&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/SciML-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></td>
   </tr>

@@ -21,10 +21,10 @@
     <td><img src="https://img.shields.io/badge/Offshore-OrcaFlex-005C8A?style=for-the-badge&logo=digitalocean&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/SciML-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></td>
   </tr>
+</table>
   <tr>
     <td><img src="https://img.shields.io/badge/Code-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></td>
     <td><img src="https://img.shields.io/badge/Doc-LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" /></td>
   </tr>
 </table>
